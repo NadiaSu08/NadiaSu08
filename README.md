@@ -3,7 +3,7 @@
 
 👋 Greetings! I am Nadia! I have pursued my BSc. in Information Technology from Jahangirnagar University.
 
-📫 Passionate about exploring new technologies and always on the lookout for opportunities to learn and grow. 
+📫 I am passionate about exploring new technologies and always on the lookout for opportunities to learn and grow. 
 
 🚀 I have practical knowledge and hands-on experience in a variety of programming languages, including C/C++, Java, MySQL, Html, CSS, Php,  Figma, etc. I'm also adept at navigating operating systems such as Windows and Linux.
 
