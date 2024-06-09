@@ -1,7 +1,10 @@
 ### Hi there 👋, Welcome!
 👋 Greetings! I am Nadia! I have pursued my BSc. from Jahangirnagar University in Information Technology. With just completing my final exams, I'm fueled by ambition and enthusiasm, both in professional and personal interactions.
+
 🚀 My coursework has equipped me with practical knowledge and hands-on experience in a variety of programming languages including C, C++, Python, Java, and SQL. I'm also adept at navigating operating systems such as Windows and Linux.
+
 💡 Additionally, I've honed my skills in wireframing, prototyping, user research, and usability testing through coursework and project work. I thrive on collaborating with stakeholders, developers, and fellow designers to ensure the delivery of cohesive and user-friendly products.
+
 💼 I'm excited about the prospect of applying my skills in a professional setting and contributing to innovative projects. Let's connect and explore opportunities to create impactful solutions together!
 
 
