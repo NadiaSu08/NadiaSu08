@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome!
-![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/448018474_2305798113145078_805706570171930839_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEzm9INXWbmJt6SqXaFWD9yFH4XhJyQmfcUfheEnJCZ90iaUoMQI8re-n4re6O7svF-wpslag8u3tAhVmRZeyT-&_nc_ohc=rHLTrHIfazYQ7kNvgHwKnE9&_nc_ht=scontent.fdac138-1.fna&oh=00_AYApUYqgruxUtdwe4PJ2ojD4ISTR7zBvd7GzI_nG5Xj4SA&oe=666BDFAA)
+![](https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/448017697_2305800776478145_6393408371884208073_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFz3kjQfa4W6DYKrUEmHN6SJM-2OBBnTaskz7Y4EGdNq4Cl3lHfgpIBvEUjUYSgJh89sVUPI5989-ZEkP6pzmYQ&_nc_ohc=-14umW__7LIQ7kNvgEYpaqH&_nc_ht=scontent.fdac138-2.fna&oh=00_AYD2iGuvgmH9bBYvkozAsyw6NMby4XyU3KoQNLg0TIaGsg&oe=666BCB54)
 
 👋 Greetings! I am Nadia! I have pursued my BSc. in Information Technology from Jahangirnagar University.
 
