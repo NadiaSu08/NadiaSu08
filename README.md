@@ -5,8 +5,4 @@
 
 💡 Additionally, I've honed my skills in wireframing, prototyping, user research, and usability testing through coursework and project work. I thrive on collaborating with stakeholders, developers, and fellow designers to ensure the delivery of cohesive and user-friendly products.
 
-💼 I'm excited about the prospect of applying my skills in a professional setting and contributing to innovative projects. Let's connect and explore opportunities to create impactful solutions together!
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NadiaSu08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nadia-sultana-3601b71b4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nadia.arnii)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nadi_._aa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](nadia_sultana)
