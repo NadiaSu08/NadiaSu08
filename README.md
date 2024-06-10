@@ -9,7 +9,7 @@
 
 💡 Additionally, I've honed my skills in Designing, wireframing, prototyping, user research, and usability testing.
 
-- 🔭 I’m currently working on Deep Learning. 
+- 🔭 I’m currently working on a thesis titled Human Activity Recognition using Deep Learning Techniques. 
 - 🌱 I’m currently learning game Development. 
 - 😄 Pronouns: She/Her 
 
