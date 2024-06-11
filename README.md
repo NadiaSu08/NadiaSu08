@@ -10,7 +10,7 @@
 💡 Additionally, I've honed my skills in Designing, wireframing, prototyping, user research, and usability testing.
 
 - 🔭 I’m currently working on Deep Learning based Activity Recognition techniques using wearable sensors. 
-- 🌱 I’m currently learning Java Springboot and game Development. 
+- 🌱 I’m currently learning Game Development(Unity). 
 - 😄 Pronouns: She/Her 
 
 
