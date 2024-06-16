@@ -5,12 +5,8 @@
 
 📫 I am passionate about exploring new technologies and always on the lookout for opportunities to learn and grow. 
 
-🚀 I have practical knowledge and hands-on experience in a variety of programming languages, including C/C++, Java, MySQL, Html, CSS, Php,  Figma, etc. I'm also adept at navigating operating systems such as Windows and Linux.
-
-💡 Additionally, I've honed my skills in Designing, wireframing, prototyping, user research, and usability testing.
-
-- 🔭 I’m currently working on Deep Learning based Activity Recognition techniques using wearable sensors. 
-- 🌱 I’m currently learning Game Development(Unity). 
+- 🔭 I’m currently working on Deep Learning-based activity recognition techniques using wearable sensors for my thesis.
+- 🌱 I’m currently learning Java Spring Boot and Game Development(Unity). 
 - 😄 Pronouns: She/Her 
 
 
